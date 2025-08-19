@@ -1,4 +1,4 @@
-# 🧩 Microserviços Challenge em Java (Spring Boot + Maven)
+# 🧩 Microserviços em Java (Spring Boot + Maven)
 
 ![Feito com Java](https://img.shields.io/badge/Feito%20com-Java-orange?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Microservi%C3%A7os-green?style=for-the-badge)
