@@ -4,13 +4,12 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Microservi%C3%A7os-green?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-important?style=for-the-badge&logo=apachemaven)
 
-<a href="https://github.com/Caroline-Teixeira/sudoku_game/blob/main/README_ENG.md"><img src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/US%402x.png" alt="Inglês" width="32"></a>
 
 ## 📖 Descrição
 
 Este projeto é um **sistema de microserviços** desenvolvido em **Java 21** utilizando **Spring Boot**, with gerenciamento de dependências via **Maven**. O sistema inclui um servidor de descoberta de serviços (Eureka), um gateway API, um serviço de catálogo de produtos e um serviço de pedidos, todos integrados com autenticação Basic Auth.
 
-O projeto foi desenvolvido para atender ao desafio da Nttdata promovido pela DIO, demonstrando a implementação de um ecossistema de microserviços com roteamento, integração e segurança.
+O projeto foi desenvolvido para atender ao desafio da NTTDATA promovido pela DIO, demonstrando a implementação de um ecossistema de microserviços com roteamento, integração e segurança.
 
 ## 🎯 Funcionalidades
 
@@ -144,8 +143,8 @@ Este projeto está sob a licença MIT.
 
 ## 👩‍💻 Autor(a)
 
-Caroline Teixeira
+<a href="https://github.com/Caroline-Teixeira">Caroline 💙</a>
 
 ---
 
-📌 *Projeto desenvolvido para o desafio da Nttdata.*
+📌 *Projeto desenvolvido para o desafio da DIO (Digital Innovation One).*
